@@ -48,8 +48,41 @@ Explica qué partes conforman el UX y qué partes el UI de la página web Youtub
 
   ![](assets/images/comentarios.png)
 
+* Visualizando otro canal
+
+  1. Nos permite ver el perfil, los videos subidos, la lista de reproducción, todos sus canales
+
+  ![](assets/images/canalotro.png)
+
+  2. Nos muestra recomendaciones de suscripción
+
+    ![](assets/images/canalotro2.png)
+
 * Como canal propio
 
   1. Nos permite tener un canal propio.
   2. Podemos subir y compartir videos propios.
   3. Difunfir nuestros videos
+
+  ### UI
+
+  1. El diseño y colores de los botones
+  2. Forma, colores, y tamaño de los videos
+
+
+  * En la página de inicio:
+
+    1. Nos muestra los icónos del menú princical (una campana para las notificaciones)
+    2. Nos resalta en rojo, el lugar donde nos encontramos dentro de la barra horizontal
+    3. Nos indica el avance del los videos, con una línea roja
+    4. El tamaño de los videos de sugerencia.
+
+  * En la visualización de un video:
+
+    1. Nos muestra en color rojo, el avance del video
+    2. Nos muestra en rojo (cuando aún no estas suscrito) el botón para suscribirse
+    3. Nos muestra en azul, la activación para reproducción automávetica
+    4. El tamaño de los video de sugerencias
+    5. Nos muestra en gris, el ícono de me gusta - no me gusta, cuando aún no hemos activado alguno
+    6. Nos muestra la foto de perfil de los canales, en forma circular.
+    7. La barra de play, donde me pone los íconos de referencia
